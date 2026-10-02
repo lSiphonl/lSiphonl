@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#4edcff"/><stop offset="1" stop-color="#9b6eff"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1100" height="430" rx="20" fill="#070a14"/>
+<g opacity=".18" stroke="#24324b">
+<path d="M0 70H1100M0 140H1100M0 210H1100M0 280H1100M0 350H1100"/>
+</g>
+<text x="40" y="42" fill="#8190a8" font-family="monospace" font-size="14" font-weight="bold">ENGINEERING STACK // ARCHITECTURE</text>
+
+<g font-family="monospace" font-size="15" font-weight="bold">
+<rect x="40" y="75" width="300" height="95" rx="14" fill="#0b101e" stroke="#4edcff"/>
+<text x="65" y="105" fill="#e1e7f0">APPLICATIONS</text>
+<text x="65" y="133" fill="#8190a8">React · TypeScript · REST</text>
+<text x="65" y="155" fill="#8190a8">Full-stack product systems</text>
+
+<rect x="400" y="75" width="300" height="95" rx="14" fill="#0b101e" stroke="#9b6eff"/>
+<text x="425" y="105" fill="#e1e7f0">BACKEND</text>
+<text x="425" y="133" fill="#8190a8">Java · .NET · Django</text>
+<text x="425" y="155" fill="#8190a8">APIs · DBs · Auth · Workers</text>
+
+<rect x="760" y="75" width="300" height="95" rx="14" fill="#0b101e" stroke="#4edcff"/>
+<text x="785" y="105" fill="#e1e7f0">AI / DATA</text>
+<text x="785" y="133" fill="#8190a8">Python · ML · Computer Vision</text>
+<text x="785" y="155" fill="#8190a8">Decision systems · Analytics</text>
+
+<rect x="220" y="250" width="300" height="95" rx="14" fill="#0b101e" stroke="#9b6eff"/>
+<text x="245" y="280" fill="#e1e7f0">SYSTEMS</text>
+<text x="245" y="308" fill="#8190a8">C / C++ · Linux · OS concepts</text>
+<text x="245" y="330" fill="#8190a8">Memory · Threads · Scheduling</text>
+
+<rect x="580" y="250" width="300" height="95" rx="14" fill="#0b101e" stroke="#4edcff"/>
+<text x="605" y="280" fill="#e1e7f0">INFRASTRUCTURE</text>
+<text x="605" y="308" fill="#8190a8">Docker · Azure · Git · CI/CD</text>
+<text x="605" y="330" fill="#8190a8">Deployment · Reliability</text>
+</g>
+
+<g stroke="url(#g)" stroke-width="3" fill="none" filter="url(#glow)">
+<path d="M340 122H400M700 122H760"/>
+<path d="M550 170V220L370 250M610 170V220L730 250"/>
+</g>
+</svg>
