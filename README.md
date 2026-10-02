@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a final-year Software Engineering student at North-West University with a strong interest in backend development, AI, and systems engineering. I’m genuinely passionate about software and engineering, and I enjoy building practical solutions, solving complex technical problems, and understanding how things work under the hood. I’m always looking to expand my skills through real-world projects, collaboration, and challenging problems.<br>
 
 
@@ -12,7 +12,7 @@ I’m a final-year Software Engineering student at North-West University with a 
 ![](https://streak-stats.demolab.com/?user=lSiphonl&theme=discord_old_blurple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lSiphonl&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
