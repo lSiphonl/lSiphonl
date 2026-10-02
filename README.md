@@ -13,6 +13,4 @@ I’m a final-year Software Engineering student at North-West University with a 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lSiphonl&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
