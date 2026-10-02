@@ -210,3 +210,5 @@ A system designed around detecting unusual, inconsistent or potentially problema
 ```
 
 </div>
+
+note to viewer: this is a work in progress and i'm figuring it out as i go, but the idea is there and a will to reach the goal is too :)
